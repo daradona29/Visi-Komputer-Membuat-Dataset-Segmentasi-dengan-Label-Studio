@@ -1,0 +1,1 @@
+# Visi-Komputer-Membuat-Dataset-Segmentasi-dengan-Label-Studio
